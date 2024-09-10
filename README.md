@@ -8,39 +8,42 @@
 
 ## 🚀 Habilidades Técnicas
 
-- **Linguagens de Programação**:
-  - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  - ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-  - VBA
+### Linguagens de Programação:
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA" />
+</p>
 
-- **Ferramentas de Análise e Visualização de Dados**:
-  - ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-  - ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### Ferramentas de Análise e Visualização de Dados:
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</p>
 
-- **Banco de Dados**:
-  - ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-  - MySQL
+### Banco de Dados:
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-- **Ferramentas de Desenvolvimento**:
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  - Visual Studio Code
+### Automação e Scripts:
+- Automação de tarefas com **Python** e **VBA**
+- Criação de dashboards automatizados
 
-- **Automação e Scripts**:
-  - Automação de tarefas com **Python** e **VBA**
-  - Criação de dashboards automatizados
+### Gerenciamento de KPIs:
+- Criação e monitoramento de indicadores de performance
+- Desenvolvimento de dashboards interativos e relatórios gerenciais
 
-- **Gerenciamento de KPIs**:
-  - Criação e monitoramento de indicadores de performance
-  - Desenvolvimento de dashboards interativos e relatórios gerenciais
+### Suporte de TI:
+- Experiência em suporte técnico de hardware e software, ajudando usuários com problemas de conectividade, atualizações e soluções de TI.
 
-- **Suporte de TI**:
-  - Experiência em suporte técnico de hardware e software, ajudando usuários com problemas de conectividade, atualizações e soluções de TI.
-
-- **Outras Ferramentas**:
-  - ![Service Now](https://img.shields.io/badge/ServiceNow-5cb85c?style=for-the-badge&logo=servicenow&logoColor=white)
-  - Google Sheets
+### Outras Ferramentas:
+<p>
+  <img src="https://img.shields.io/badge/ServiceNow-5cb85c?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets" />
+</p>
 
 ---
 
